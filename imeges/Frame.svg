@@ -1,0 +1,27 @@
+<svg width="447.140625" height="27.015625" viewBox="0 0 447.141 27.0156" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_280">
+			<rect id="IMAGE" rx="0.000000" width="23.000000" height="23.000000" transform="translate(0.500000 3.515625)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2_284">
+			<rect id="IMAGE" rx="0.000000" width="23.000000" height="23.000000" transform="translate(68.500000 3.515625)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2_286">
+			<rect id="IMAGE" rx="0.000000" width="23.000000" height="23.000000" transform="translate(34.500000 3.515625)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip2_280)">
+		<path id="Vector" d="M7 5.01C4.23 5.01 2 7.25 2 10.01L2 20.01C2 22.77 4.23 25.01 7 25.01L17 25.01C19.76 25.01 22 22.77 22 20.01L22 10.01C22 7.25 19.76 5.01 17 5.01L7 5.01Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M15.59 16.81C15.2 17.56 14.59 18.16 13.84 18.54C13.09 18.92 12.23 19.05 11.4 18.92C10.57 18.78 9.8 18.39 9.21 17.8C8.61 17.2 8.22 16.43 8.09 15.6C7.96 14.77 8.09 13.92 8.47 13.17C8.84 12.42 9.45 11.8 10.2 11.42C10.94 11.03 11.79 10.89 12.63 11.01C13.47 11.14 14.26 11.53 14.87 12.14C15.47 12.75 15.87 13.53 16 14.38C16.12 15.21 15.98 16.06 15.59 16.81Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+		<path id="Vector" d="M17.5 9.51L17.51 9.51" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+	<g clip-path="url(#clip2_284)">
+		<path id="Vector" d="M83 5.01C81.67 5.01 80.4 5.54 79.46 6.47C78.52 7.41 78 8.68 78 10.01L78 13.01L75 13.01L75 17.01L78 17.01L78 25.01L82 25.01L82 17.01L85 17.01L86 13.01L82 13.01L82 10.01C82 9.75 82.1 9.49 82.29 9.3C82.48 9.12 82.73 9.01 83 9.01L86 9.01L86 5.01L83 5.01Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+	</g>
+	<g clip-path="url(#clip2_286)">
+		<path id="Vector" d="M53.86 7.54C53.25 6.85 52.45 6.36 51.56 6.13C50.67 5.91 49.73 5.97 48.88 6.29C48.02 6.62 47.28 7.2 46.77 7.96C46.25 8.72 45.98 9.62 46 10.54L46 11.54C44.24 11.59 42.5 11.2 40.93 10.41C39.36 9.62 38.01 8.45 37 7.01C37 7.01 33 16.01 42 20.01C39.94 21.41 37.48 22.11 35 22.01C44 27.01 55 22.01 55 10.51C55 10.23 54.97 9.95 54.92 9.68C55.94 8.67 56.66 7.4 57 6.01C56.04 6.69 54.98 7.2 53.86 7.54Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+	</g>
+</svg>
